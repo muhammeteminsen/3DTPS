@@ -1,0 +1,4 @@
+repository "Suikast@Deathrevenge@cloud"
+  path "/"
+    br "/main"
+    co "/main"
