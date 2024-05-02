@@ -1,4 +1,4 @@
-# Game Download ITHC.IO link
+# Game Download ITCH.IO link
 https://muhammeteminsen.itch.io/3d-tps-game
 
 
